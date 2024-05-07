@@ -9,7 +9,9 @@ Além disso, serviços e ferramentas especializados na nuvem, como GPUs e TPUs, 
 Um dos grandes desafios para o desenvolvimento de IA continua sendo a infraestrutura, especialmente quando se trata de lidar com dados sigilosos, onde a necessidade de uma infraestrutura própria se torna ainda mais crucial.
 
 Apesar desses desafios, algoritmos de aprendizado de máquina e frameworks de IA, como TensorFlow e PyTorch, têm simplificado significativamente o processo de desenvolvimento de modelos de IA, oferecendo uma ampla gama de ferramentas e bibliotecas. Esses avanços tecnológicos, combinados com uma infraestrutura sólida e confiável, continuam a moldar o campo da IA, transformando suas possibilidades em realidade tangível e impulsionando inovações em uma variedade de setores.
+## PROBLEMA
 
+## PROPOSTA DE SOLUÇÃO
 
 ## OBJETIVO GERAL
 O objetivo geral deste projeto é pesquisar e  projetar uma implementação de  uma infraestrutura  que permita o desenvolvimento e a implantação de soluções de IA de alta qualidade. 
