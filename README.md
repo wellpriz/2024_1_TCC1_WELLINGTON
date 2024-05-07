@@ -16,6 +16,7 @@ A construção de uma infraestrutura on-premise para o desenvolvimento de IA enf
 Por outro lado, a dependência da infraestrutura em nuvem também apresenta desafios. A segurança dos dados é uma preocupação, especialmente ao lidar com informações sensíveis ou regulamentadas, como dados de saúde ou financeiros. Além disso, os custos operacionais a longo prazo associados ao uso contínuo da infraestrutura em nuvem podem ser difíceis de prever e gerenciar, especialmente para organizações com orçamentos limitados. Em resumo, embora a infraestrutura em nuvem ofereça vantagens para o desenvolvimento de IA, é crucial considerar e mitigar os desafios associados a essa abordagem.
 
 ## PROPOSTA DE SOLUÇÃO
+Uma proposta de solução para infraestrutura de IA pode envolver a utilização de ferramentas de virtualização e orquestração de infraestrutura, como o OpenNebula e o OpenStack entre outras feramentas. Essas plataformas de código aberto permitem a criação e o gerenciamento eficiente de ambientes de computação em nuvem, oferecendo flexibilidade e escalabilidade para suportar projetos de IA de diferentes tamanhos e complexidades. Ao utilizar essas ferramentas, as organizações podem provisionar recursos de computação conforme necessário, otimizando o uso de hardware e reduzindo custos operacionais.
 
 ## OBJETIVO GERAL
 O objetivo geral deste projeto é pesquisar e  projetar uma implementação de  uma infraestrutura  que permita o desenvolvimento e a implantação de soluções de IA de alta qualidade. 
