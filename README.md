@@ -8,7 +8,13 @@ Além disso, serviços e ferramentas especializados na nuvem, como GPUs (Unidade
 
 Um dos grandes desafios para o desenvolvimento de IA continua sendo a infraestrutura, especialmente quando se trata de lidar com dados sigilosos, onde a necessidade de uma infraestrutura própria se torna ainda mais crucial.
 
-Apesar desses desafios, algoritmos de aprendizado de máquina e frameworks de IA, como TensorFlow e PyTorch, têm simplificado significativamente o processo de desenvolvimento de modelos de IA, oferecendo uma ampla gama de ferramentas e bibliotecas. Esses avanços tecnológicos, combinados com uma infraestrutura sólida e confiável, continuam a moldar o campo da IA, transformando suas possibilidades em realidade tangível e impulsionando inovações em uma variedade de setores.
+Apesar desses desafios, algoritmos de aprendizado de máquina e frameworks de IA, como TensorFlow e PyTorch, têm simplificado significativamente o processo de desenvolvimento de modelos de IA, oferecendo uma ampla gama de ferramentas e bibliotecas como podemos ver na imagem abaixo.
+  
+![Texto alternativo](https://miro.medium.com/v2/resize:fit:720/format:webp/1*DX7oJE5IrBRbAS6kwKS3lw.jpeg)
+
+
+Esses avanços tecnológicos, combinados com uma infraestrutura sólida e confiável, continuam a moldar o campo da IA, transformando suas possibilidades em realidade tangível e impulsionando inovações em uma variedade de setores.
+
 ## PROBLEMA
 
 A construção de uma infraestrutura on-premise para o desenvolvimento de IA enfrenta desafios significativos. Um dos principais é o alto investimento inicial necessário para adquirir hardware especializado, como GPUs e TPUs, além de servidores de alto desempenho e sistemas de armazenamento escaláveis. Além disso, a complexidade do gerenciamento e manutenção dessa infraestrutura pode ser uma preocupação, desde a configuração inicial do hardware até a aplicação de patches de segurança e atualizações de software, demandando tempo, recursos e expertise técnica. A escalabilidade também é um desafio, já que a capacidade de expandir a infraestrutura para lidar com demandas crescentes pode ser limitada pelos recursos físicos disponíveis. Esses fatores combinados podem tornar a construção e manutenção de uma infraestrutura on-premise para IA uma tarefa complexa e custosa.
