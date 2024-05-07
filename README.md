@@ -1,4 +1,13 @@
+# CONTEXTO
+Nas últimas décadas, avanços significativos em redes neurais artificiais e o crescente poder computacional têm impulsionado o desenvolvimento da Inteligência Artificial (IA).
 
+A computação em nuvem emergiu como uma ferramenta vital nesse progresso, proporcionando acesso fácil e econômico a recursos computacionais massivos. Isso eliminou barreiras anteriores enfrentadas por organizações, permitindo o desenvolvimento de projetos de IA. Grandes empresas, como Google, Amazon e Microsoft, têm investido na construção de infraestruturas capazes de suprir essas demandas crescentes, principalmente em seus serviços de cloud computing.
+
+Além disso, serviços e ferramentas especializados na nuvem, como GPUs e TPUs, têm otimizado operações de aprendizado de máquina e deep learning, acelerando o treinamento de modelos e simplificando a exploração de arquiteturas complexas.
+
+Um dos grandes desafios para o desenvolvimento de IA continua sendo a infraestrutura, especialmente quando se trata de lidar com dados sigilosos, onde a necessidade de uma infraestrutura própria se torna ainda mais crucial.
+
+Apesar desses desafios, algoritmos de aprendizado de máquina e frameworks de IA, como TensorFlow e PyTorch, têm simplificado significativamente o processo de desenvolvimento de modelos de IA, oferecendo uma ampla gama de ferramentas e bibliotecas. Esses avanços tecnológicos, combinados com uma infraestrutura sólida e confiável, continuam a moldar o campo da IA, transformando suas possibilidades em realidade tangível e impulsionando inovações em uma variedade de setores.
 
 
 ## OBJETIVO GERAL
