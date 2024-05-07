@@ -1,4 +1,5 @@
-# CONTEXTO
+# Projeto de Infraestrutura para Desenvolvimento de Soluções de Inteligência Artificial (IA)
+## CONTEXTO
 Nas últimas décadas, avanços significativos em redes neurais artificiais e o crescente poder computacional têm impulsionado o desenvolvimento da Inteligência Artificial (IA).
 
 A computação em nuvem emergiu como uma ferramenta vital nesse progresso, proporcionando acesso fácil e econômico a recursos computacionais massivos. Isso eliminou barreiras anteriores enfrentadas por organizações, permitindo o desenvolvimento de projetos de IA. Grandes empresas, como Google, Amazon e Microsoft, têm investido na construção de infraestruturas capazes de suprir essas demandas crescentes, principalmente em seus serviços de cloud computing.
